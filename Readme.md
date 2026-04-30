@@ -1,4 +1,4 @@
-# 👨‍💻 Edward Risco — CV Web
+# 👨‍💻 Edward Atahuaman — CV Web
 
 Sitio web personal que presenta mi perfil profesional como Ingeniero de Sistemas, con enfoque en ciberseguridad y desarrollo web.
 
